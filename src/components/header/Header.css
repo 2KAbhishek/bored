@@ -1,4 +1,8 @@
 h1 {
-    color: #61dafb;
+    display: inline-block;
+    color: #43f0f0;
     cursor: pointer;
+    border: #07acdf 3px solid;
+    padding: 10px 40px;
+    border-radius: 10px;
 }

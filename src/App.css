@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: #282c34;
+  background-color: #141b2b;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -9,5 +9,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
   font-family: 'Indie Flower', cursive;
-  font-size: larger;
+  font-size: clamp(1.5vmin,3rem,3vmax);
+  padding: 5%;
 }

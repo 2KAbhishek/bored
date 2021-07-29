@@ -19,7 +19,7 @@ const Bored = () => {
   }, []);
 
   return (
-    <div>
+    <div className="Bored">
       <Header title='Bored?'/>
       <h2>{activity.activity}</h2>
       <h3>{activity.type}</h3>
