@@ -1,0 +1,27 @@
+.Button {
+    display: inline-block;
+    background: #61dafb;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: inherit;
+    color: #282c34;
+    font-weight: bold;
+}
+
+.Button:focus {
+    outline: none;
+}
+
+.Button:active {
+    transform: scale(0.90);
+}
+
+a {
+    color: #282c34;
+    text-decoration: none;
+}
