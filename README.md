@@ -1,24 +1,24 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/im-bored">im-bored</a></h1>
+<h1><a href="https://2kabhishek.github.io/bored">bored</a></h1>
 
-<a href="https://github.com/2KAbhishek/im-bored/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/im-bored?style=plastic&color=white&label=License"> </a>
+<a href="https://github.com/2KAbhishek/bored/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/bored?style=plastic&color=white&label=License"> </a>
 
-<a href="https://github.com/2KAbhishek/im-bored/pulse">
-<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/im-bored?style=plastic&color=e30724&label=Updated"> </a>
+<a href="https://github.com/2KAbhishek/bored/pulse">
+<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/bored?style=plastic&color=e30724&label=Updated"> </a>
 
-<a href="https://github.com/2KAbhishek/im-bored/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/im-bored?style=plastic&color=00d451&label=Stars"></a>
+<a href="https://github.com/2KAbhishek/bored/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/bored?style=plastic&color=00d451&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/im-bored/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/im-bored?style=plastic&color=1688f0&label=Forks"> </a>
+<a href="https://github.com/2KAbhishek/bored/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/bored?style=plastic&color=1688f0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/im-bored/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/im-bored?style=plastic&color=ff5500&label=Watchers"> </a>
+<a href="https://github.com/2KAbhishek/bored/watchers">
+<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/bored?style=plastic&color=ff5500&label=Watchers"> </a>
 
-<a href="https://github.com/2KAbhishek/im-bored/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/im-bored?style=plastic&color=f0f&label=Contributors"> </a>
+<a href="https://github.com/2KAbhishek/bored/graphs/contributors">
+<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/bored?style=plastic&color=f0f&label=Contributors"> </a>
 
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
@@ -26,20 +26,20 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/im-bored/main/images/screenshot.png" alt="im-bored Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/bored/main/images/screenshot.png" alt="bored Demo" style="width:100%">
   <br/>
-  <figcaption>im-bored Screenshot</figcaption>
+  <figcaption>bored Screenshot</figcaption>
 </figure>
 
 </div>
 
 ## Inspiration
 
-im-bored was inspired by `<reason/idea>`.
+bored was inspired by `<reason/idea>`.
 
 ## What it does
 
-im-bored is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+bored is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
@@ -47,17 +47,17 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of `<coding_language/dependency/requirement_1>`
 
-## Getting im-bored
+## Getting bored
 
-To install im-bored, follow these steps:
+To install bored, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/im-bored
-cd im-bored
+git clone https://github.com/2kabhishek/bored
+cd bored
 <install_command>
 ```
 
-## Using im-bored
+## Using bored
 
 ```bash
 USAGE:
@@ -77,15 +77,15 @@ Example:
 
 ## How it was built
 
-im-bored was built using `<tech/library>`
+bored was built using `<tech/library>`
 
 ## Challenges faced
 
-While building im-bored the main challenges were `<issue/difficulty>`
+While building bored the main challenges were `<issue/difficulty>`
 
 ## What I learned
 
-While building im-bored I `<learned/accomplished>` about `<learning/accomplishment>`
+While building bored I `<learned/accomplished>` about `<learning/accomplishment>`
 
 ## What's next
 
@@ -106,7 +106,7 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/im-bored">Source</a> |
-<a href="https://2kabhishek.github.io/im-bored">Website</a>
+<a href="https://github.com/2KAbhishek/bored">Source</a> |
+<a href="https://2kabhishek.github.io/bored">Website</a>
 
 </div>
