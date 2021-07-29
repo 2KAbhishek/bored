@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 const Header = ({title}) => {
   return (
     <header>
-      <h1 onClick = {() => window.location.reload(false)}>{title}</h1>
+      <h1 onClick = {() => history.go(0)}>{title}</h1>
     </header>
   );
 };
