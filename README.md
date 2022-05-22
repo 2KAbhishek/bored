@@ -23,7 +23,7 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>You bored bro? 😴🪄</h3>
 
 <figure>
   <img src= "images/screenshot.png" alt="bored Demo" style="width:100%">
@@ -32,20 +32,19 @@
 </figure>
 
 </div>
+## What is it
+
+Bored is a web app that can help you find your next activity.
 
 ## Inspiration
 
-bored was inspired by `<reason/idea>`.
-
-## What it does
-
-bored is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+I mean, I was bored.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `npm`
 
 ## Getting bored
 
@@ -54,51 +53,18 @@ To install bored, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/bored
 cd bored
-<install_command>
-```
-
-## Using bored
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+npm install
 ```
 
 ## How it was built
 
-bored was built using `<tech/library>`
-
-## Challenges faced
-
-While building bored the main challenges were `<issue/difficulty>`
+bored was built using `axios, bored api, react`
 
 ## What I learned
 
-While building bored I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+- Data fetching with `axios`
+- gh-pages and react integration
+- css fun
 
 Hit the ⭐ button if you found this useful.
 
