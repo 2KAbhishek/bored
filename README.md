@@ -32,6 +32,7 @@
 </figure>
 
 </div>
+
 ## What is it
 
 Bored is a web app that can help you find your next activity.
